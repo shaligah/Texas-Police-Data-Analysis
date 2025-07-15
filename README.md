@@ -37,14 +37,6 @@ This Power BI dashboard provides an insightful analysis of **Texas Police Data**
 
 ---
 
-## 📸 Screenshots
-
-| Overview Page | Time Series View | Popup Example |
-|---------------|------------------|----------------|
-| ![overview](images/overview.png) | ![timeseries](images/timeseries.png) | ![popup](images/popup.png) |
-
----
-
 ## 📥 How to Use
 
 1. Download the `.pbix` file.
